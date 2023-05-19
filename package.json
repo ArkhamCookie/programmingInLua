@@ -1,0 +1,15 @@
+{
+  "name": "programmingInLua",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "ArkhamCookie <npm@mail.theuntitledproject.dev> (https://theuntitledproject.dev)",
+  "license": "MIT",
+  "devDependencies": {
+    "@prettier/plugin-lua": "^0.0.2"
+  }
+}
