@@ -1,15 +1,16 @@
 {
-  "name": "programmingInLua",
+  "name": "programming-in-lua",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "prettier": "prettier **.lua"
   },
   "keywords": [],
   "author": "ArkhamCookie <npm@mail.theuntitledproject.dev> (https://theuntitledproject.dev)",
   "license": "MIT",
   "devDependencies": {
-    "@prettier/plugin-lua": "^0.0.2"
+    "@prettier/plugin-lua": "^0.0.2",
+    "prettier": "^2.8.8"
   }
 }

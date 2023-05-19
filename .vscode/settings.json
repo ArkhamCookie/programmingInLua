@@ -1,4 +1,12 @@
 {
+	"emeraldwalk.runonsave": {
+		"commands": [
+			{
+				"match": "\\.*lua$",
+				"cmd": "prettier ${file}"
+			}
+		]
+	},
 	"Lua.runtime.version": "LuaJIT",
 	"Lua.runtime.special": {
 		"love.filesystem.load": "loadfile"
