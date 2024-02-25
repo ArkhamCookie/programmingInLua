@@ -23,6 +23,7 @@ For more about support [Free Software](https://gnu.org/philosophy/free-sw.html),
 - [LuaRocks](https://luarocks.org/)
 - [Lua IDEs](http://lua-users.org/wiki/LuaIntegratedDevelopmentEnvironments)
 - [Lua cheatsheet](https://devhints.io/lua)
+- [Learn Lua in 15 Minutes](https://tylerneylon.com/a/learn-lua)
 
 ### Luna How to Guides
 
