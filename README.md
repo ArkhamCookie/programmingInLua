@@ -14,7 +14,7 @@ If you are not in a position to donate money towards the project, you can donate
 
 ### Supporting FOSS
 
-For more about support [Free Software](https://gnu.org/philosophy/free-sw.html), I recommoned '[HOWTO Pay for Free Software](https://files.puzzling.org/wayback/pay-for-foss/)' by [Mary Gardiner](https://mary.gardiner.id.au/).
+For more about support [Free Software](https://gnu.org/philosophy/free-sw.html), I recommend '[HOWTO Pay for Free Software](https://files.puzzling.org/wayback/pay-for-foss/)' by [Mary Gardiner](https://mary.gardiner.id.au/).
 
 ## More Online Resources for Lua
 
